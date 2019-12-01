@@ -49,5 +49,3 @@ You will also need to use [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib
 For the frontend we'd prefer if you used [Angular JS](https://angular.io/), however feel free to use [Vue](https://vuejs.org/) or [React](https://reactjs.org/) if that is more your speed.
 
 [Here is a good resource](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) for making mobile responsive web apps.
-
-Don't hesitate to send any questions to richard@flomio.com!
